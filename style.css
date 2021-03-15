@@ -1,0 +1,14 @@
+﻿body{
+   background:gray; 
+   text:black;
+}
+
+button{
+   font-family:arial black;
+   background:blue; widlth:50000px; height:30px; text-decoration-color:white; font-size:10px;
+}
+
+.entire-div{
+    width: 45%;
+    margin: auto;
+}
